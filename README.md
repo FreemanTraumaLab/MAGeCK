@@ -1,2 +1,2 @@
 # MAGeCK
-A jupyter script and supplemental information for CRISPR screen analysis using MAGeCK-VISPR pipeline.
+A jupyter script and supplemental files for CRISPR screen analysis using MAGeCK-VISPR pipeline.
